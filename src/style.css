@@ -44,11 +44,12 @@ h3 {
     margin-bottom: 150px;
     
     font-family: 'Nunito';
-    font-size: 25px;
+    font-size: 30px;
 }
 
 h3 strong {
     font-size: 40px;
+    color: cornsilk;
 }
 
 h3 p {
